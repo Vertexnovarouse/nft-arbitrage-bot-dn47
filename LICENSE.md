@@ -1,4 +1,4 @@
-# 
+# quantitative nft arbitrage bot | collection-scanning + wash-trading-detection offers the most advanced nft arbitrage bot, with collection-scanning and wash-trading-detection.
 
 
 
